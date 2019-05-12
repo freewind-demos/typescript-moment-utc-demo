@@ -1,4 +1,4 @@
-TypeScript Moment Demo
+TypeScript Moment UTC Demo
 ===========================
 
 ```
